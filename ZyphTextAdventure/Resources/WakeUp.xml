@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Encounter>
+  <Name>WakeUp</Name>
+
+  <EncounterType></EncounterType>
+  <EnemiesEncountered>
+    <Enemies></Enemies>
+    <Enemies></Enemies>
+    <Enemies></Enemies>
+  </EnemiesEncountered>
+  <AddedTags></AddedTags>
+  <RemoveTags></RemoveTags>
+
+
+  <Text>*Beep Beep Beep Beep* Your alarm is going off...
+  No telling how long it's been on for.
+  You look over at your alarm clock and read 7:15 from its face.
+  You're Late!!! You roll out of bed and run to your closet
+  What do you want to wear?</Text>
+  <Options>
+    <Option>
+      <Text>Hoodie</Text>
+      <NextEncounter>Hoodie</NextEncounter>
+    </Option>
+    <Option>
+      <Text>Jersey</Text>
+      <NextEncounter>Jersey</NextEncounter>
+    </Option>
+    <Option>
+      <Text>Leather Jacket</Text>
+      <NextEncounter>LeatherJacket</NextEncounter>
+    </Option>
+  </Options>
+</Encounter>

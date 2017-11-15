@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Encounter>
+  <Name>Wake Up!</Name>
+  <Text>*Beep Beep Beep Beep* Your alarm is going off... No telling how long it's been on for.  You look over at your alarm clock and read 7:15 from its face. \n You're Late!!! You roll out of bed and run to your closet, What do you want to wear? </Text>
+  <Options>
+    <Option>
+      <Text>1) Hoodie </Text>
+      <NextEncounter>TestEncounter</NextEncounter>
+    </Option>
+    <Option>
+      <Text> Jersey </Text>
+      <NextEncounter></NextEncounter>
+    </Option>
+    <Option>
+      <Test> Leather Jacket <Test>
+      <NextEncounter></NextEncounter>
+    </Option>
+  </Options>
+</Encounter>

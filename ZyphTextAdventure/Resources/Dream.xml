@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Encounter>
+  <Name>WakeUp</Name>
+
+  <EncounterType></EncounterType>
+  <EnemiesEncountered>
+    <Enemies></Enemies>
+    <Enemies></Enemies>
+    <Enemies></Enemies>
+  </EnemiesEncountered>
+  <AddedTags></AddedTags>
+  <RemoveTags></RemoveTags>
+
+
+  <Text>You wake up in the nurse at school with a terrible headache...
+  That's right, turn's out you're just some loser...
+  Trying to pass math...
+  What do you want to do?</Text>
+  <Options>
+    <Option>
+      <Text>Restart</Text>
+      <NextEncounter>WakeUp</NextEncounter>
+    </Option>
+    <Option>
+      <Text></Text>
+      <NextEncounter></NextEncounter>
+    </Option>
+    <Option>
+      <Text></Text>
+      <NextEncounter></NextEncounter>
+    </Option>
+  </Options>
+</Encounter>

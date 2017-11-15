@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Encounter>
+  <Name>TestName</Name>
+  <Text>This is a test text!</Text>
+  <Options>
+    <Option>
+      <Text>Option 1</Text>
+      <NextEncounter>WakeUp</NextEncounter>
+    </Option>
+    <Option>
+      <Text>Option 2</Text>
+      <NextEncounter></NextEncounter>
+    </Option>
+  </Options>
+</Encounter>

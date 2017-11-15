@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Encounter>
+  <Name>Jersey</Name>
+
+  <EncounterType></EncounterType>
+  <EnemiesEncountered>
+    <Enemies></Enemies>
+    <Enemies></Enemies>
+    <Enemies></Enemies>
+  </EnemiesEncountered>
+  <AddedTags></AddedTags>
+  <RemoveTags></RemoveTags>
+
+  <Text>
+    You decide to pick one of your Jerseys...
+    Which one do you want to wear?
+  </Text>
+  <Options>
+    <Option>
+      <Text>Time to go!</Text>
+      <NextEncounter>Breakfast</NextEncounter>
+    </Option>
+    <Option>
+      <Text>I don't want to wear a Jersey..</Text>
+      <NextEncounter>WakeUp</NextEncounter>
+    </Option>
+  </Options>
+</Encounter>
